@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">firebaseapptest</string>
+    <string name="title_activity_main">firebaseapptest</string>
+    <string name="package_name">ionic.firebaseapptest</string>
+    <string name="custom_url_scheme">ionic.firebaseapptest</string>
+</resources>
